@@ -1,0 +1,19 @@
+Python
+
+https://www.python.org/
+
+PBI
+
+https://www.microsoft.com/en-us/download/details.aspx?id=58494
+
+Pandas
+
+pip install pandas
+
+Matplotlib
+
+pip install matplotlib
+
+Jupyter
+
+pip install jupyter
