@@ -1,0 +1,8 @@
+Number.RoundDown(Duration.TotalDays(DateTime.Date(DateTime.LocalNow()) - [Date de Naissance]) / 365)
+
+
+
+
+if [Note Bac] > 16 then "Accepted"
+else if [Note Bac] <= 16 and [Note Bac] >= 12 then "Yes No"
+else "No"
